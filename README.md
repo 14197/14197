@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @14197
 - 👀 I’m interested in my tracher carrer of teaching python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my teacher
+- 💞️ I’m looking to collaborate on my teacher that like sadogo
 - 📫 How to reach me; I can't tell you
 
 <!---
